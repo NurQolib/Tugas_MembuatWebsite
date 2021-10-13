@@ -198,7 +198,7 @@ footer {
     .box .col-4 {
         width: 100%;
     }
-	.konten {
-		width:50%;
+	.col-4 .konten {
+		width:100px;
 	}
 }
